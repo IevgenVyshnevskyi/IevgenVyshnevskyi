@@ -1,8 +1,6 @@
-#<div style="background-color:black; width:100%; height:200px; display:flex; justify-content:center; align-items:center;"><span style="color:white;">Hello, my name is Evgen!</span>
-</div>
+# Hello, my name is Evgen!
 
-##<div style="background-color:black; height:70px;display:flex; justify-content:center; align-items:center;"><span style="color:white;">I am Front-end developer</span>
-</div>
+## I am Front-end developer
 
 ### <img src='./assets/file-info-color-icon.svg' title='About me info' alt='about me info' height='40'> About me info:
 

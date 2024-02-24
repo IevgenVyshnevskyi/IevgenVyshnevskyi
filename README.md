@@ -1,4 +1,4 @@
-[<img src="https://img.shields.io/badge/My%20name%20is%20Evgen!-7515a5" alt="My name is Evgen!" width="100%">](https://www.linkedin.com/in/ievgen-vyshnevskyi)
+[<img src="https://img.shields.io/badge/My%20name%20is%20Ievgen!-7515a5" alt="My name is Ievgen!" width="100%">](https://www.linkedin.com/in/ievgen-vyshnevskyi)
 
 ## I am Front-end developer
 
